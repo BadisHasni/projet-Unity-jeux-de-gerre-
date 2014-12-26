@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script1\AI.js">
+    <Files>
+      <File FileName="Assets\Script1\menu.js" Line="6" Column="23" />
+      <File FileName="Assets\Script1\Globaal.js" Line="4" Column="35" />
+      <File FileName="Assets\Script1\CharacterMainScript.js" Line="5" Column="2" />
+      <File FileName="Assets\Script1\AI.js" Line="29" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

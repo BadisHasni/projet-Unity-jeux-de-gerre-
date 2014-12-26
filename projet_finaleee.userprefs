@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script1\destructionEnnemi.js">
+    <Files>
+      <File FileName="Assets\Script1\menu.js" Line="17" Column="30" />
+      <File FileName="Assets\Script1\affiche.js" Line="8" Column="15" />
+      <File FileName="Assets\Script1\AI.js" Line="42" Column="32" />
+      <File FileName="Assets\Script1\menufinalgagner.js" Line="13" Column="34" />
+      <File FileName="Assets\Script1\menuGameOver.js" Line="8" Column="8" />
+      <File FileName="Assets\Script1\destructionEnnemi.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
